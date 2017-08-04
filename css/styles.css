@@ -5,6 +5,11 @@ body {
   background-position: center;
 }
 
+#diver {
+  margin: auto;
+  float: right;
+}
+
 img {
   float: right;
   margin-left: 15px;
@@ -24,8 +29,7 @@ h4 {
 
 .row {
   margin: 20px;
-  background-color: #9ee5ed;
-  opacity: 50%;
+  background-color: #cbeef2;
   border-radius: 8%;
 }
 
@@ -68,7 +72,9 @@ h4 {
   padding-left: 12px;
   padding-right: 12px;
 }
-
+#quote {
+  text-align: center;
+}
 /*Portfolio Landing Page
 Create a portfolio webpage using HTML and CSS, which will later act as the landing page for your programming portfolio. Do not use a template to create your initial HTML/bootstrap setup. Begin your work with an empty page and an initial empty commit.
 
