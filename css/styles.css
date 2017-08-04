@@ -9,7 +9,25 @@ img {
   margin: 10px;
 
 }
+.contact {
+  display: inline-block;
+  padding: 0;
+  text-align: center;
+}
 
+.contact li {
+  display: inline;
+}
+
+.contact li a {
+  white-space: nowrap;
+}
+
+.contact li:first-child:after {
+  content:" \2022";
+  letter-spacing: 1em;
+  background:center center no-repeat url;
+}
 
 /*Portfolio Landing Page
 Create a portfolio webpage using HTML and CSS, which will later act as the landing page for your programming portfolio. Do not use a template to create your initial HTML/bootstrap setup. Begin your work with an empty page and an initial empty commit.
