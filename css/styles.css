@@ -6,16 +6,29 @@ body {
 }
 
 img {
-  text-align: center;;
-  margin: 10px;
+  float: right;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-top: 15px;
+  margin-bottom:15px;
+}
+
+.feat {
+  text-align: center;
+  margin: 15px;
+}
+
+h4 {
+  text-align: center;
 }
 
 .col-md-4 {
   border: 3px;
-  margin: 1px:auto;
+  margin: 10px: auto;
   width: 33%;
   border-radius: 22%
   float: left;
+  padding: 15px;
 }
 
 .contact {
@@ -37,17 +50,15 @@ img {
   letter-spacing: 1em;
   background:center center no-repeat url;
 }
-.mack {
-  float: right;
-  margin-left: 10px;
-  margin-right: 10px;
-  margin-top: 15px;
-  margin-bottom:15px;
-}
 
 .me {
   padding-left: 12px;
   padding-right: 12px;
+}
+
+.col-md-4 img {
+  text-align: center;;
+  margin: 10px;
 }
 /*Portfolio Landing Page
 Create a portfolio webpage using HTML and CSS, which will later act as the landing page for your programming portfolio. Do not use a template to create your initial HTML/bootstrap setup. Begin your work with an empty page and an initial empty commit.
