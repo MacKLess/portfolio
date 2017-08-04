@@ -6,7 +6,7 @@ body {
 }
 
 img {
-  float: right;
+  text-align: center;;
   margin: 10px;
 }
 
@@ -36,6 +36,9 @@ img {
   content:" \2022";
   letter-spacing: 1em;
   background:center center no-repeat url;
+}
+.mack {
+  float: right;
 }
 
 .me {
