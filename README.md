@@ -10,11 +10,11 @@ _This the current version of my developer portfolio. Here you will find examples
 
 ## Setup/Installation Requirements
 
-_Clone this repository.
+_Clone this repository._
 
-Open a simple HTTP server in the top level of the cloned directory. 
+_Open a simple HTTP server in the top level of the cloned directory._
 
-Then open your web browser of choice._
+_Then open your web browser of choice._
 
 ## Known Bugs
 
@@ -30,7 +30,7 @@ _This app was created using basic web development tools and via the convenience 
 
 ### License
 
-Copyright (c) 2017 _L. D. MacKrell
+Copyright (c) 2017 _L. D. MacKrell_
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -48,4 +48,4 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE._
+SOFTWARE.
