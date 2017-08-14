@@ -67,10 +67,15 @@ h4 {
   letter-spacing: 1em;
   background:center center no-repeat url;
 }
-
+.ol {
+  margin-left: -5rem !important;
+}
 .me {
   padding-left: 12px;
   padding-right: 12px;
+}
+.details {
+  font-style: oblique;
 }
 #quote {
   text-align: center;
