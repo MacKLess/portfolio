@@ -10,7 +10,7 @@ _This the current version of my developer portfolio. Here you will find examples
 
 ## Setup/Installation Requirements
 
-_Clone this repository._
+_Clone this repository at https://github.com/MacKLess/portfolio.git ._
 
 _Open a simple HTTP server in the top level of the cloned directory._
 
