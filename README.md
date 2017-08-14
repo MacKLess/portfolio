@@ -14,7 +14,7 @@ _Clone this repository at https://github.com/MacKLess/portfolio.git ._
 
 _Open a simple HTTP server in the top level of the cloned directory._
 
-_Then open your web browser of choice._
+_Then open your web browser of choice to http://MacKLess.github.io/portfolio ._
 
 ## Known Bugs
 
